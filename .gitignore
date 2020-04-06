@@ -46,4 +46,6 @@ dist/
 
 # Temporary folders
 tmp/
-temp/
+
+# IDE files
+.idea/
